@@ -1,0 +1,40 @@
+body{
+	background-color: pink;
+}
+.zt{
+	width: 750px;
+	height: 840px;
+	background-color: white;
+	margin: 0 auto;
+	border-radius: 15px;
+	box-shadow: 1px 1px 10px gray;
+	background: url(../img/1.jpg);
+	background-size:810px;
+	background-position: top;
+}
+.zt h1{
+	width: 100%;
+	text-align: center;
+	font-size: 30px;
+	font-family: "楷体";
+	text-decoration: underline;
+}
+.zt h4{
+	width: 40%;
+	text-align: center;
+	text-decoration: underline;
+	font-family: "楷体";
+}
+.zt:first-child p{
+	width:90%;
+	margin: 0 auto;
+	text-decoration: underline;
+	text-indent: 2.9rem;
+	
+}
+.dd{
+	padding-left: -30px;
+}
+.ddd{
+	margin-left: 470px;
+}
