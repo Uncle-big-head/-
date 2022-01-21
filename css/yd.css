@@ -1,11 +1,31 @@
 @media screen and (max-width:750px){
 	body{
-		background-color: pink;
+		background-color:pink;
 	}
 	
 	.zt{
-		width: 700px;
-		height: 870px;
+		width:350px;
+		height: 1400px;
+		background-size:440px;
 	}
-
+	.zt h4{
+		width: 40%;
+		text-align: center;
+		text-decoration: underline;
+		font-family: "楷体";
+	}
+	.zt:first-child p{
+		width:90%;
+		margin: 0 auto;
+		text-decoration: underline;
+		text-indent: 2.9rem;
+		
+	}
+	.dd{
+		padding-left: -30px;
+	}
+	.ddd{
+		margin-left: 180px;
+		font-size: 14px;
+	}
 }
